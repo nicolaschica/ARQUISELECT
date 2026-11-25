@@ -1,4 +1,4 @@
-# ArquiSelect — Entregable 3
+# ArquiSelect — Entrega Final
 
 Sistema experto de **caja blanca** (SWI-Prolog + Python/Tkinter con PySwip) que recomienda un estilo de arquitectura de software entre 11 estilos y explica por qué. Este entregable agrega:
 
@@ -109,5 +109,6 @@ Las reglas disparadas suman su bonus en `puntaje/3` o descartan el estilo en `mo
    Con esas dos casillas, MVC pasa de 5 a 8 puntos y queda primero. En **Resumen → ¿Por qué? (auditoría)** aparece la regla.
 3. Cierre la app y vuelva a abrirla: la regla sigue cargada (`conocimiento_aprendido.pl`).
 4. Elimine la regla desde **Reglas y conocimiento aprendido**.
-#   A R Q U I S E L E C T  
+#   A R Q U I S E L E C T 
+ 
  
