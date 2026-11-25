@@ -1,0 +1,29 @@
+/* conocimiento_aprendido.pl - generado por ArquiSelect.
+   Estilos, reglas expertas y sinonimos ensenados desde la interfaz.
+   Lo lee cargar_aprendizaje/1, que valida cada termino (no se
+   consulta directamente). */
+
+estilo_aprendido(aaaa).
+estilo(aaaa, aaaa).
+descripcion_estilo(aaaa, aaaa).
+aporta(aaaa, bajo_costo, 3).
+incompatible(aaaa, equipo_pequeno).
+incompatible(aaaa, equipo_grande).
+incompatible(aaaa, sin_experiencia_devops).
+incompatible(aaaa, entrega_rapida).
+incompatible(aaaa, muchos_usuarios).
+incompatible(aaaa, carga_variable).
+incompatible(aaaa, procesos_largos).
+incompatible(aaaa, latencia_critica).
+incompatible(aaaa, disponibilidad_alta).
+incompatible(aaaa, despliegue_independiente).
+incompatible(aaaa, integracion_sistemas_heredados).
+incompatible(aaaa, datos_centralizados).
+incompatible(aaaa, dominio_complejo).
+incompatible(aaaa, integracion_asincrona).
+incompatible(aaaa, consistencia_estricta).
+incompatible(aaaa, mantenibilidad_largo_plazo).
+incompatible(aaaa, testabilidad_alta).
+incompatible(aaaa, independencia_tecnologica).
+incompatible(aaaa, separar_interfaz_logica).
+
